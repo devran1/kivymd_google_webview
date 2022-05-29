@@ -1,0 +1,50 @@
+
+You need to install kivy-garden module first:
+
+pip install kivy-garden
+Then install graph package from garden module:
+
+garden install graph
+
+(permission denied)
+
+sudo chmod +x address 
+
+then 
+
+
+garden install cefpython
+
+
+for webview
+
+
+##################
+
+pip install cefpython3
+
+change python version to 3.7
+
+#first download python3.7
+#then use that to make a virtualenv
+sudo add-apt-repository ppa:deadsnakes/ppa
+
+sudo apt install python3.7
+
+
+which python3.7 --->/usr/bin/python3.7
+
+virtualenv name_env --python=/usr/bin/python3.7
+
+sudo apt install python3.7-distutils
+
+sudo apt-get install libpython3.7
+##############################333
+pip install kivymd
+
+pip install cefpython3
+
+python3 for-kivy2.py 
+
+
+
