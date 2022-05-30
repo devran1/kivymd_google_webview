@@ -1,0 +1,19 @@
+none of them solved
+
+need qt ot gtk for webview
+
+sudo apt-get install build-essential
+
+sudo apt-get install qtcreator
+
+sudo apt-get install qt5-default
+
+
+sudo apt-get install gtk2.0
+
+#################################
+
+pip install pywebview[qt]
+
+
+python main_could_work_on_android.py

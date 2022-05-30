@@ -1,0 +1,3 @@
+cefpython doesn't work on android
+
+probably flask doesn't work either

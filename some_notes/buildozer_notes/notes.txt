@@ -1,0 +1,21 @@
+pip install buildozer
+
+sudo apt install git-all
+
+pip install cython
+
+sudo apt-get install openjdk-8-jdk
+
+
+
+buildozer init
+
+buildozer -v android debug
+
+
+for now (just trying without really building the website)
+
+don't need to use kivy to build (android apps) with buildozer (just becareful with depenciencies(requirements))
+
+
+
