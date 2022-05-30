@@ -1,0 +1,8 @@
+pip install flask_restful
+pip install eventlet
+
+sudo apt-get update
+
+/etc/apache2/apache2.conf
+
+/var/www/html/index.html
