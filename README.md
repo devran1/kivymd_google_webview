@@ -1,5 +1,7 @@
 # kivymd_google_webview
 
+#### [ATTENTION] this repository is probably useless right now
+
 check the link if it uses python3.8 one day none of these going to be important
 
 https://github.com/cztomczak/cefpython
